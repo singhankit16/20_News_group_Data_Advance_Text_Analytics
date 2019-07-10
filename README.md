@@ -50,7 +50,7 @@ After getting clean, tokenized and transformed data, next step is to build ML mo
 - SVM 
 - XGB 
 We tried above mentioned three models for each choice of data transformation techniques and evaluated their performance of train and test dataset. Following are the results: 
-![model_results]()
+![model_results](https://github.com/singhankit16/20_News_group_Data_Advance_Text_Analytics/blob/master/model_results.PNG)
 
 ### Challenges
 - Header and Footer caused very messy form of data
